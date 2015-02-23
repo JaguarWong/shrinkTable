@@ -1,0 +1,15 @@
+table {
+    white-space: nowrap;
+}
+
+div.prev-button {
+    float: left;
+}
+
+div.next-button {
+    float: right;
+}
+
+.display-none {
+    display: none;
+}
